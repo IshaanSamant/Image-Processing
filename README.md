@@ -1,1 +1,2 @@
-Applying different kernels to images to see how convolution kernels work
+# Image Processing
+Performing Image Processing experiments using Python
